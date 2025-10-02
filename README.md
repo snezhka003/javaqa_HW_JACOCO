@@ -1,4 +1,4 @@
-[![Java CI with Maven](https://github.com/snezhka003/javaqa_HW_JACOCO/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/snezhka003/javaqa_HW_JACOCO/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/snezhka003/javaqa_HW_JACOCO/actions/workflows/maven.yml/badge.svg?event=push)](https://github.com/snezhka003/javaqa_HW_JACOCO/actions/workflows/maven.yml)
 
 ## Задание 1 — обязательное
 
